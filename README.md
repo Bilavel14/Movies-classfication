@@ -2,6 +2,8 @@
 ***
 The given example is discussed by combining two data. In the following examples following quesitons are being addressed:
 
+# Summary
+***
   - First,based on these four geners; Action, Romanace, Comedy and Thriller the movies are selected.
   
   - Classification of all of the movies in a dataset is being done.
