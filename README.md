@@ -8,7 +8,7 @@ The given example is discussed by combining two data. In the following examples 
 
   - Found rating of top 20 movies and validate them.
   
-  - Linear and polynomial regression models are discussed.
+  - Linear and polynomial regression models and some predictions are discussed.
 
 # Library used
 ***
