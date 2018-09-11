@@ -16,7 +16,7 @@ The given example is discussed by combining two data. In the following examples 
 ***
   -Pandas as pd
   
-  -NumPy as np
+  -Numpy as np
   
   -from sklearn import preprocessing
   
